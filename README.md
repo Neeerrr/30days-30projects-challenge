@@ -8,7 +8,7 @@
 
 | Days         | Project        | Description   |  Language    |   Link    | Status    |
 | :---         |     :---:      |     :---:     |    :---:     |   :---:     |    ---:   |
-|1             |  Tic-Tac-Toe-game      |   Tic-Tac-Toe-game-using-JavaScript   |  HTML,CSS,JavaScript  |   <a href="[doc:introduction](https://hellcoder37.github.io/30days-30projects-challenge/Day1/index.html)" target="_blank">Link of Project</a> |  Done ✔  |
+|1             |  Tic Tac Toe game      |   Tic Tac Toe game using JavaScript   |  HTML,CSS,JavaScript  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day1/index.html) |  Done ✔  |
 |2   |        |      |    |    |    |
 |3   |        |      |    |    |    |
 |4   |        |      |    |    |    |
