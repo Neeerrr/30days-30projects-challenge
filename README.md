@@ -9,7 +9,7 @@
 | Days         | Project        | Description   |  Language    |   Link    | Status    |
 | :---         |     :---:      |     :---:     |    :---:     |   :---:     |    ---:   |
 |1             |  Tic Tac Toe game      |   Tic Tac Toe game using JavaScript   |  HTML,CSS,JavaScript  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day1/index.html) |  Done ✔  |
-|2   |        |      |    |    |    |
+|2             |     Notes App  |   Notes App using JavaScript   |    HTML,CSS,JavaScript |  [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day2/index.html)  | Done ✔   |
 |3   |        |      |    |    |    |
 |4   |        |      |    |    |    |
 |5   |        |      |    |    |    |
