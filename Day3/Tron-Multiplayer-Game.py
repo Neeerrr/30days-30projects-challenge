@@ -18,7 +18,7 @@ height = 600
 display = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Tron Multiplayer Game")
 clock = pygame.time.Clock()
-
+#storing the RGB color in color name variable 
 background = (27, 79, 114)
 white = (236, 240, 241)
 cyan = (0, 255, 255)
