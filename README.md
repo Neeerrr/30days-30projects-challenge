@@ -13,7 +13,7 @@
 |3   | Tron Multiplayer Game       |    Tron Multiplayer Game using Python and modules use pygame, sys  |  Python  |  [OutPut img of Project](https://drive.google.com/file/d/1a6WygZTKVxTH_ejXjSMMJ9ywbJeh1VeE/view?usp=sharing)  |  Done ✔  |
 |4   |     Flappy Bird Game    |     Flappy Bird Game using python and modules use random,sys,pygame  |   Python |  [OutPut img of Project](https://drive.google.com/file/d/1kRtdlKpE2dLy3qdEBZ6sQf4DCYkCfnhx/view?usp=sharing)  |  Done ✔   |
 |5   |    Drag & Drop    |   Drag & Drop using HTML,CSS,JavaScript |  HTML,CSS,JavaScript  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day5/index.html)   |  Done ✔  |
-|6   |        |      |    |    |    |
+|6   |   Image Trail Effects     |   Image Trail Effects using JavaScript   |  HTML,CSS,JavaScript  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day6/index) |  Done ✔  |
 |7   |        |      |    |    |    |
 |8   |        |      |    |    |    |
 |9   |        |      |    |    |    |
