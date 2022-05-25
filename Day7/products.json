@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Apple AirPods Pro Bluetooth Headphones",
+        "image": "/images/airpods.jpeg",
+        "price": 23900
+    },
+    {
+        "id": 2,
+        "name": "Apple iPhone 13 Pro Max (256GB) - Sierra Blue",
+        "image": "/images/iphone 13 promax.jpg",
+        "price": 139900
+    },
+    {
+        "id": 3,
+        "name": "Canon EOS R Mirrorless Digital Camera with 24-105mm Lens",
+        "image": "/images/camra.jpg",
+        "price": 379254
+    },
+    {
+        "id": 4,
+        "name": "Sony Playstation 5 825GB SSD (CFI-1008A01R, White)",
+        "image": "/images/ps5.jpeg",
+        "price": 49990
+    },
+    {
+        "id": 5,
+        "name": "Logitech MX Master 3 Bluetooth and USB Laser Mouse (Sensor Technology, 910-005698, Graphite)",
+        "image": "/images/mouse.jpeg",
+        "price": 7995
+    },
+    {
+        "id": 6,
+        "name": "Amazon Echo Plus 2nd Gen Alexa Built-in Smart Speaker (B0794JD9JS, Black)",
+        "image": "/images/alexa.jpeg",
+        "price": 11990
+    }
+]
