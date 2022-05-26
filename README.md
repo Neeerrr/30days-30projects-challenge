@@ -15,7 +15,7 @@
 |5   |    Drag & Drop    |   Drag & Drop using HTML,CSS,JavaScript |  HTML,CSS,JavaScript  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day5/index.html)   |  Done ✔  |
 |6   |   Image Trail Effects     |   Image Trail Effects using JavaScript   |  HTML,CSS,JavaScript  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day6/index) |  Done ✔  |
 |7   |    Shopping Cart  |      Shopping Cart using HTML,CSS,JAVASCRIPT  |  HTML,CSS,JAVASCRIPT   |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day7/index.html) |  Done ✔  |
-|8   |        |      |    |    |    |
+|8   |    Expandig Card    |   Expandig Card using HTML,CSS,JAVASCRIPT  |  HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day8/index.html)  |  Done ✔  |
 |9   |        |      |    |    |    |
 |10  |        |      |    |    |    |
 |11  |        |      |    |    |    |
