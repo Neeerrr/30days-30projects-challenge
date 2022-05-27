@@ -16,7 +16,7 @@
 |6   |   Image Trail Effects     |   Image Trail Effects using JavaScript   |  HTML,CSS,JavaScript  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day6/index) |  Done ✔  |
 |7   |    Shopping Cart  |      Shopping Cart using HTML,CSS,JAVASCRIPT  |  HTML,CSS,JAVASCRIPT   |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day7/index.html) |  Done ✔  |
 |8   |    Expandig Card    |   Expandig Card using HTML,CSS,JAVASCRIPT  |  HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day8/index.html)  |  Done ✔  |
-|9   |        |      |    |    |    |
+|9   |   Stack Tower     |   Stack Tower using Pthone and modules use random,sys,pygame|   Python   |  [Link of Project](https://drive.google.com/file/d/1jqv5DEt3KgFBa8cdE831BZHkK2C0Vy3s/view?usp=sharing)  |  Done ✔  |
 |10  |        |      |    |    |    |
 |11  |        |      |    |    |    |
 |12  |        |      |    |    |    |
