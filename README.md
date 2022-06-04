@@ -23,8 +23,8 @@
 |13  |    Creative Menu    |  Creative Menu Using HTML,CSS,JS    |   HTML,CSS,JAVASCRIPT  |  [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day13/index.html)  | Done ✔   |
 |14  |    Image Hover Interaction    |   Image Hover Interaction Using HTML,CSS,JS    |    HTML,CSS,JAVASCRIPT |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day14/index.html) |  Done ✔  |
 |15  |    Vertical Slider    |   Vertical Slider Using HTML,CSS,JS  |   HTML,CSS,JAVASCRIPT  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day15/index.html)   |  Done ✔  |
-|16  |        |      |    |    |    |
-|17  |        |      |    |    |    |
+|16  |    Bubbly Background Animation Effects    |   Bubbly Background Animation Effects Using HTML,CSS,JS  |   HTML,CSS,JAVASCRIPT  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day16/index.html)   | Done ✔   |
+|17  |   Random Quote Generator App     |   Random Quote Generator App  Using HTML,CSS,JS   |   HTML,CSS,JAVASCRIPT  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day17/index.html)   | Done ✔   |
 |18  |        |      |    |    |    |
 |19  |        |      |    |    |    |
 |20  |        |      |    |    |    |
