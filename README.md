@@ -26,7 +26,7 @@
 |16  |    Bubbly Background Animation Effects    |   Bubbly Background Animation Effects Using HTML,CSS,JS  |   HTML,CSS,JAVASCRIPT  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day16/index.html)   | Done ✔   |
 |17  |   Random Quote Generator App     |   Random Quote Generator App Using HTML,CSS,JS   |   HTML,CSS,JAVASCRIPT  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day17/index.html)   | Done ✔   |
 |18  |   Password Generator     |   Password Generator Using HTML,CSS,JS  |  HTML,CSS,JAVASCRIPT  |  [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day18/index.html)  |   Done ✔ |
-|19  |        |      |    |    |    |
+|19  |    Split Landing Page    |  Split Landing Page Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT   |    [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day19/index.html) |  Done ✔  |
 |20  |        |      |    |    |    |
 |21  |        |      |    |    |    |
 |22  |        |      |    |    |    |
