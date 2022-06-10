@@ -30,7 +30,7 @@
 |20  |    DOM Array Methods    |   DOM Array Methods Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day20/index.html)   | Done ✔   |
 |21  |    3D Boxes Background    |   3D Boxes Background Using HTML,CSS,JS  |  HTML,CSS,JAVASCRIPT  |  [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day21/index.html) |   Done ✔ |
 |22  |    Scroll to see the animation    |  Scroll to see the animation Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day22/index.html)  |  Done ✔  |
-|23  |        |      |    |    |    |
+|23  |    Background Slider    | Background Slider Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT   | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day23/index.html)   |  Done ✔  |
 |24  |        |      |    |    |    |
 |25  |        |      |    |    |    |
 |26  |        |      |    |    |    |
