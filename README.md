@@ -32,7 +32,7 @@
 |22  |    Scroll to see the animation    |  Scroll to see the animation Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day22/index.html)  |  Done ✔  |
 |23  |    Background Slider    | Background Slider Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT   | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day23/index.html)   |  Done ✔  |
 |24  |    Drawing App    |   Drawing App Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT  |  [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day24/index.html)  |  Done ✔  |
-|25  |        |      |    |    |    |
+|25  |     Gmail Clone  |   Gmail Clone Using HTML,CSS,JS |  HTML,CSS,JAVASCRIPT  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day25/index.html)   |  Done ✔  |
 |26  |        |      |    |    |    |
 |27  |        |      |    |    |    |
 |28  |        |      |    |    |    |
