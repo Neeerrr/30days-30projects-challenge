@@ -35,7 +35,7 @@
 |25  |     Gmail Clone  |   Gmail Clone Using HTML,CSS,JS |  HTML,CSS,JAVASCRIPT  | [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day25/index.html)   |  Done ✔  |
 |26  |   Dodge The Ball     |    Dodge The Ball Using Python Modules - pygame, sys, random, math|   Python |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day26/index.html) |   Done ✔ |
 |27  |    Rotating Navigation    |   Rotating Navigation Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day27/index.html)  |  Done ✔  |
-|28  |        |      |    |    |    |
+|28  |      Sound Board  |    Sound Board Using HTML,CSS,JS |  HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day28/index.html)  |   Done ✔ |
 |29  |        |      |    |    |    |
 |30  |        |      |    |    |    |
 
