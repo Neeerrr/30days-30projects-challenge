@@ -37,5 +37,5 @@
 |27  |    Rotating Navigation    |   Rotating Navigation Using HTML,CSS,JS   |  HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day27/index.html)  |  Done ✔  |
 |28  |      Sound Board  |    Sound Board Using HTML,CSS,JS |  HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day28/index.html)  |   Done ✔ |
 |29  |     Hoverboard   |   Hoverboard Using HTML,CSS,JS  |   HTML,CSS,JAVASCRIPT  |   [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day29/index.html)  |  Done ✔  |
-|30  |        |      |    |    |    |
+|30  |   Fluid Simulation     |   Fluid Simulation Using HTML,CSS,JS  |  JAVASCRIPT   |  [Link of Project](https://hellcoder37.github.io/30days-30projects-challenge/Day30/index.html)  | Done ✔   |
 
